@@ -1,6 +1,6 @@
 
 {
-  "allowedIps": ["172.18.0.8", "172.18.0.3"],
+  "allowedIps": ["172.18.0.4", "172.18.0.3"],
   "users": [
     {
       "username": "riooxdzz",
