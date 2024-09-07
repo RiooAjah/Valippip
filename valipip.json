@@ -1,14 +1,5 @@
-
 {
-  "allowedIps": ["172.18.0.29", "172.18.0.29"],
-  "users": [
-    {
-      "username": "riooxdzz",
-      "password": "riooajah"
-    },
-    {
-      "username": "ella",
-      "password": "ella123"
-    }
-  ]
+  
+"key" : "soraa"
+  
 }
